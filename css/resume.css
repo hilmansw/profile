@@ -92,6 +92,14 @@ section.resume-section {
   section.resume-section .resume-item .resume-date {
     min-width: none; }
 
+section.resume-section a {
+  color: white;
+}
+
+section.resume-section a:hover {
+  color: #cccccc;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh; }
