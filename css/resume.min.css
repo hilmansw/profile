@@ -145,10 +145,12 @@ section.resume-section .resume-item .resume-date{
     
 a{
     color:#fff;
+  	text-decoration: none;
 }
 
 a:active,a:focus,a:hover{
     color:#cccccc;
+  	text-decoration: none;
 }
 
 .logos {
